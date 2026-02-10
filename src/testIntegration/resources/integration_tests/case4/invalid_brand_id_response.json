@@ -1,0 +1,4 @@
+{
+  "code": "ERR_PRODUCT_PRICE_INVALID_PARAM",
+  "message": "The value abc of the parameter brand_id is not valid. Only whole numbers are supported."
+}

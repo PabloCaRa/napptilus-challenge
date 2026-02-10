@@ -1,0 +1,4 @@
+{
+  "code": "ERR_PRODUCT_PRICE_RESOURCE_NOT_FOUND",
+  "message": "The resource you are trying to retrieve does not exist. Please, check the URL."
+}

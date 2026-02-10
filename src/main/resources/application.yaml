@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: napptilus-test
+  r2dbc:
+    url: r2dbc:h2:mem:///napptilusdb
+    username: sa
+    password: sa
+  sql:
+    init:
+      mode: always
+      schema-locations: classpath:db/schema.sql
+      data-locations: classpath:db/data.sql

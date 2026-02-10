@@ -1,0 +1,4 @@
+{
+  "code": "ERR_PRODUCT_PRICE_MISSING_APPLICATION_DATE",
+  "message": "Required query parameter 'application_date' is not present."
+}
